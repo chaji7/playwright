@@ -1,0 +1,27 @@
+# ドットはじまり
+\!*
+.*
+!.htaccess
+!.htpasswd
+!.gitkeep
+!.gitignore
+!.gitmodules
+!.editorconfig
+
+# スクレイピング
+_scraping/*
+!_scraping/*.js
+
+# NPM
+node_modules/
+dist_img/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Other
+.DS_Store
+
+!.user.ini
+!.gitkeep
