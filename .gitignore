@@ -10,6 +10,7 @@
 
 # スクレイピング
 _scraping/*
+!_scraping/package.json
 !_scraping/*.js
 
 # NPM

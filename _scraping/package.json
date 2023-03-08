@@ -1,0 +1,19 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "@playwright/test": "^1.29.2",
+    "@types/node": "^18.11.18",
+    "cheerio": "^1.0.0-rc.12",
+    "fs": "^0.0.1-security",
+    "js-beautify": "^1.14.7",
+    "path": "^0.12.7",
+    "playwright": "^1.30.0"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
